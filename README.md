@@ -13,7 +13,7 @@ Programación Estructurada en lenguaje C.
 - Ciclos
 - Arreglos
 - Matrices
-- Cadenas
+- Strings
 - Funciones
 - Punteros
 - Memoria dinámica
