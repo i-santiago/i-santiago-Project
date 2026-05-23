@@ -1,3 +1,0 @@
-REPORTE #1
-En clase se vieron los diferentes tipos de datos. Especificamente los datos primitivos, es fundamental entender que cada un almaceno un tipo de valor espedifico en donde cada uno lleva su respectivo tipo de identificador de formato.
-Los principales tipos de datos primitivos son int, utilizado para números enteros; float y double, empleados para números decimales; y char, que sirve para almacenar caracteres individuales. Cada tipo de dato ocupa diferente espacio en memoria y se utiliza dependiendo de las necesidades del programa.
