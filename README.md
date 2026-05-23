@@ -15,8 +15,7 @@ Programación Estructurada en lenguaje C.
 - Matrices
 - Strings
 - Funciones
-- Punteros
-- Memoria dinámica
+- Punteros y recursividad
 - Struct y union
 - Archivos
 
