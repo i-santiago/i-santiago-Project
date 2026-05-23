@@ -1,4 +1,4 @@
-# Actividad: Arreglos
+# Actividad: Condicionales
 ## Descripción
 Modo de emplear los condicionales if, else en diferentes tipos de aplicaciones.
 ## Temas aplicados
