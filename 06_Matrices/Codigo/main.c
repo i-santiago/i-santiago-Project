@@ -35,11 +35,11 @@ int main()
     printf("Arreglo bidimensional:\n%d", tablero);
 */
 ///////////////////JUEGO////////////////
-    int N,M,x,y,v,w;
+    int N,M;
+    N = 2;
+    M = 2;
     int j1 [N][M];
-    int j2 [N][M];
-    N = 3;
-    M = 3;
+
 
     int bote1 = 777;
     int bote2[2] = {555,555};
@@ -47,22 +47,17 @@ int main()
   for(i=0; i<N ; i++){
         for(j=0; j<M; j++){
             j1[i][j]=0;
-    //printf("%d", j1[i][j]);
         }
-        j1[i][j]=0;
-    //printf("%d\n", j1[i][j]);
     }
-    
-    i=0;
-    j=0;
-    
+
+
 for(i=0; i<N ; i++){
         for(j=0; j<M; j++){
 
             printf("%d", j1[i][j]);
         }
 
-        printf("%d\n", j1[i][j]);
+        printf("\n");
     }
 /*
 
