@@ -1,6 +1,6 @@
 # Actividad: Tipos de datos
 ## Descripción
-Tabla que muestra los tipos de datos primitivos que hay en el lenguaje c.
+Se comprendio los tipos de datos primitivos que hay en el lenguaje c.
 ## Temas aplicados
 - Tipo de dato
 - Identificador de formato
