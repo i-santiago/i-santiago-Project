@@ -1,11 +1,14 @@
-# Actividad: Arreglos
+# Actividad: Operadores
 ## Descripción
-Programa que captura valores en un arreglo y calcula promedio.
+Se vieron los tipos de operadores que existen, logicos, relacionales, aritmeticos y de incremento.
+
 ## Temas aplicados
-- arreglos
-- ciclos
-- funciones
+- Operadores
+- Verificacion de errores
+- Incrementos
+  
 ## Compilación
 gcc main.c -o programa
+
 ## Ejecución
 ./programa
