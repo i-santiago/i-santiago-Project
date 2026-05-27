@@ -1,4 +1,4 @@
-# Actividad: Arreglos
+# Actividad: Struct
 ## Descripción
 Programa que captura valores de una estructura y se comprende sus caracteristicas.
 ## Temas aplicados
